@@ -1,3 +1,3 @@
-# 1st
+# NoteApp
 
-It's just a basic Endpoint for Dicoding frontend Web App from http://notesapp-v1.dicodingacademy.com
+Basic API endpoint built using hapi framework which has simple function to create, read, update, and delete notes stored in the local databases that could connect with frontend Web Application from http://notesapp-v1.dicodingacademy.com
